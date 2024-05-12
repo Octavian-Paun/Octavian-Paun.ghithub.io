@@ -203,7 +203,7 @@ a.menu-btn {
 /* home section styling */
 .home{
     display: flex;
-    background: url("/assets/paul-volkmer-_Apdet7E5yU-unsplash.jpg") no-repeat center;
+    background: url("./assets/paul-volkmer-_Apdet7E5yU-unsplash.jpg") no-repeat center;
     height: 100vh;
     color: #fcfcfc;
     min-height: 500px;
