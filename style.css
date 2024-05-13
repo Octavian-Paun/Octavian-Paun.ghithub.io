@@ -250,7 +250,7 @@ flex: 0 0 auto;
 width:30%;
 max-height: 450px;
 object-fit: contain;
-margin-left: 150px;
+margin-left: 100px;
 }
 .home .home-content a{
     display: inline-block;
@@ -737,9 +737,7 @@ footer span a:hover{
 @media (max-width: 500px) {
 
     .img-right{
-         width: 25%;
-         max-height: 100px;
-         margin-left: 0px;
+         display: none;
     }
     .home .home-content .text-2{
         font-size: 33px;
