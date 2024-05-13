@@ -245,7 +245,7 @@ a.menu-btn {
     width:70%;
 }
 .img-right{
-    display: flex;
+display: flex;
 flex: 0 0 auto;
 width:30%;
 max-height: 450px;
@@ -735,6 +735,11 @@ footer span a:hover{
 }
 
 @media (max-width: 500px) {
+
+    .img-right{
+
+        display: none;
+    }
     .home .home-content .text-2{
         font-size: 33px;
     }
