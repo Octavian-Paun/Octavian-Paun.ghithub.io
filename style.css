@@ -735,10 +735,6 @@ footer span a:hover{
 }
 
 @media (max-width: 500px) {
-    .img-right{
-
-        display: none;
-    }
     .home .home-content .text-2{
         font-size: 33px;
     }
@@ -768,3 +764,9 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+@ media (max-width: 500px) { 
+
+    .img-right{
+
+        display:none;}}
