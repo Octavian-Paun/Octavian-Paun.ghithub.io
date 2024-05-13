@@ -717,6 +717,11 @@ footer span a:hover{
 }
 
 @media (max-width: 690px) {
+    .img-right{
+
+        height: 100px;
+        margin-left: 20px;
+    }
     .max-width{
         padding: 0 23px;
     }
