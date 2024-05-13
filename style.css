@@ -736,6 +736,10 @@ footer span a:hover{
 
 @media (max-width: 500px) {
 
+    .home{
+
+        background-size: contain;
+    }
     .img-right{
          display: none;
     }
