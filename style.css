@@ -721,7 +721,7 @@ footer span a:hover{
         padding: 0 23px;
     }
     .home .home-content .text-2{
-        font-size: 60px;
+        font-size: 50px;
     }
     .home .home-content .text-3{
         font-size: 32px;
@@ -741,6 +741,7 @@ footer span a:hover{
     }
     .home .home-content .text-2{
         font-size: 33px;
+       height: 90vh;
     }
     .home .home-content .text-3{
         font-size: 27px;
