@@ -248,8 +248,8 @@ a.menu-btn {
 display: flex;
 flex: 0 0 auto;
 overflow: hidden;
-width: 30%;
-height: 170px;
+width: 300px;
+height: 300px;
 margin-left: 2vw;
 }
 .home .home-content a{
