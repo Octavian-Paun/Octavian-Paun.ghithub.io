@@ -654,8 +654,8 @@ footer span a:hover{
 @media (max-width: 947px){
     .img-right{
 
-        height: 200px;
-        margin-left: 21px;
+        max-height: 200px;
+        margin-left: 10px;
     }
     .menu-btn{
         display: block;
