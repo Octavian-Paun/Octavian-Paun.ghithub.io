@@ -448,6 +448,18 @@ a:visited{
 
 /* projects section styling */
 
+.projects .title::before{
+
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  width: 180px;
+  height: 3px;
+  background: #fff;
+  transform: translateX(-50%);
+}
+
 .projects .carousel .card{
     background: #222;
     border-radius: 6px;
