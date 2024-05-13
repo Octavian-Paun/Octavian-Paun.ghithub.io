@@ -324,7 +324,7 @@ a:visited{
     background: none;
 }
 
-/* services section styling */
+/* skills section styling */
 .services, .projects {
     color:#fff;
     background: #111;
@@ -607,6 +607,19 @@ a:visited{
 
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
+}
+
+.codepen .title::before{
+
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  width: 180px;
+  height: 3px;
+  background: #fff;
+  transform: translateX(-50%);
+
 }
 
 .description{
