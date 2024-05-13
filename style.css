@@ -738,8 +738,8 @@ footer span a:hover{
 
     .home{
 
-        background-size: calc(100vh - 100px);
-        height: 100vh;
+        height: auto;
+        max-width: 100%;
         
     }
     .img-right{
