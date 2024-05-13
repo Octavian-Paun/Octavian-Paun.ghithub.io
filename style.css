@@ -640,6 +640,12 @@ footer span a:hover{
 
 /* responsive media query start */
 @media (max-width: 1104px) {
+
+    .img-right{
+
+        height: 200px;
+        margin-left: 10px;
+    }
     .about .about-content .left img{
         height: 350px;
         width: 350px;
@@ -647,6 +653,11 @@ footer span a:hover{
 }
 
 @media (max-width: 991px) {
+    .img-right{
+
+        height: 200px;
+        margin-left: 10px;
+    }
     .max-width{
         padding: 0 50px;
     }
