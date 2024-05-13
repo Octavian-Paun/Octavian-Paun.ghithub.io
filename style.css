@@ -652,6 +652,11 @@ footer span a:hover{
     }
 }
 @media (max-width: 947px){
+    .img-right{
+
+        height: 200px;
+        margin-left: 20px;
+    }
     .menu-btn{
         display: block;
         z-index: 999;
