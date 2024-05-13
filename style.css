@@ -789,5 +789,10 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+    
 }
+
+  <!-- iframe styling --!>
+.results-type {
+  display: none !important;}
 
