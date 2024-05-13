@@ -719,7 +719,7 @@ footer span a:hover{
 @media (max-width: 690px) {
     .img-right{
 
-        height: 50px;
+        height: 200px;
         margin-left: 20px;
     }
     .max-width{
