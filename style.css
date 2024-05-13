@@ -224,7 +224,7 @@ a.menu-btn {
     cursor: pointer;
 }
 .home .home-content .text-1{
-    font-size: 27px;
+    font-size: 25px;
 }
 .home .home-content .text-2{
     font-size: 60px;
@@ -741,7 +741,7 @@ footer span a:hover{
         padding: 0 23px;
     }
     .home .home-content .text-2{
-        font-size: 50px;
+        font-size: 30px;
     }
     .home .home-content .text-3{
         font-size: 32px;
@@ -761,7 +761,7 @@ footer span a:hover{
          display: none;
     }
     .home .home-content .text-2{
-        font-size: 33px;
+        font-size: 25px;
        
     }
     .home .home-content .text-3{
